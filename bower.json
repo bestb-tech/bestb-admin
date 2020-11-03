@@ -1,0 +1,17 @@
+{
+  "name": "bestb-admin",
+  "version": "1.0",
+  "authors": [
+    "haonv-bestb <haonv.bestb@gmail.com>"
+  ],
+  "description": "Bestb Admin Bower",
+  "main": "/",
+  "keywords": [
+    "admin bower"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/haonv-bestb/bestb-admin.git",
+  "ignore": [
+    "README.md"
+  ]
+}

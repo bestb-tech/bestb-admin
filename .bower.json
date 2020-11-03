@@ -1,0 +1,25 @@
+{
+  "name": "bestb-capital-admin-bower",
+  "authors": [
+    "haonv-bestb <haonv.bestb@gmail.com>"
+  ],
+  "description": "Bestb Capital Admin Bower",
+  "main": "/",
+  "keywords": [
+    "admin bower"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/haonv-bestb/bestb-capital-admin-bower.git",
+  "ignore": [
+    "README.md"
+  ],
+  "_release": "514c929998",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "514c92999880f5030cf424feb91774f5791f95f4"
+  },
+  "_source": "https://github.com/haonv-bestb/bestb-capital-admin-bower.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/haonv-bestb/bestb-capital-admin-bower.git"
+}
